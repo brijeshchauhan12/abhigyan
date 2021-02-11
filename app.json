@@ -1,0 +1,37 @@
+{
+    "expo": {
+        "name": "school",
+        "slug": "school",
+        "version": "1.0.0",
+        "orientation": "default",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/drawable-xxxhdpi/Image_5.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "bundleIdentifier": "com.abhigyaan.schools",
+            "buildNumber": "1.0.0"
+        },
+        "android": {
+            "package": "com.abhigyaan.schools",
+            "versionCode": 1,
+            "googleServicesFile": "./google-services.json",
+            "useNextNotificationsApi": true
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "notification": {
+            "icon": "./assets/icon.png",
+            "color": "#ee8172"
+        }
+    }
+}

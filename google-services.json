@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095196653699",
+    "firebase_url": "https://abhigyan-9d312.firebaseio.com",
+    "project_id": "abhigyan-9d312",
+    "storage_bucket": "abhigyan-9d312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095196653699:android:a1f3c09ff61c3af16243b6",
+        "android_client_info": {
+          "package_name": "com.abhigyaan.schools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095196653699-5eqk5dh0e7dmagvi5mn2e1556ppcdeq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnQ6l9F5rNFOYR-v56A8mMv9t8BI6eXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095196653699-5eqk5dh0e7dmagvi5mn2e1556ppcdeq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

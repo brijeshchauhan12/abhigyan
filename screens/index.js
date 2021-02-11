@@ -1,0 +1,20 @@
+export { default as Login } from "./login";
+export { default as Signup } from "./signup";
+export { default as Confirmation } from "./confirmation";
+export { default as Dashboard } from "./dashboard";
+export { default as Home } from "./home";
+export { default as Profile } from "./profile";
+export {default as Liveclasses} from './liveclasses';
+export {default as  Download} from './download';
+export {default as More} from './more';
+export {default as MathScreen} from './mathmetics'
+export {default as PdfRead} from './pdfreader';
+export {default as PlayVideo} from './playvideo';
+export {default as Forgatepassword} from './forgatepassword';
+export {default as Resetpassword} from './resetpassword';
+export {default as Subplan} from './subscriptionplan';
+export {default as BuyPackage} from './buypackage';
+export {default as Notifications} from './Notifications';
+export {default as HelpFacility} from './HelpFacility';
+export {default as ShortVideo} from './ShortVideo';
+export {default as ShareApp} from './ShareApp';
